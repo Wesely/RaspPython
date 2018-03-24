@@ -9,7 +9,7 @@ Using GPIO_05 as an output.
 `GPIO_05(signal)` --- `LED` --- `resistor` --- `GPIO_06(ground)`
 - Run `LED_blink.py`
 
-## Controll LED via Firebase
+## Control LED via Firebase
 - Create a Firebase project, get the ApiKey
 - Upload this json as the database structure.
 https://github.com/Wesely/RaspPython/blob/master/PyrebaseGPIO/GPIO_Database.json
