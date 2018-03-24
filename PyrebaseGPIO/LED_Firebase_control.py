@@ -5,10 +5,10 @@ PATH_LISTENING = '/GPIO_05'
 GPIO_OUTPUT = 5
 # config of Firebase
 config = {
-  "apiKey": "AIzaSyCpAaeOr0LqZCkeU5ZzN9xC7SeLzJRVY-M",
-  "authDomain": "raspberryexperiment.firebaseapp.com",
-  "databaseURL": "https://raspberryexperiment.firebaseio.com",
-  "storageBucket": "raspberryexperiment.appspot.com"
+  "apiKey": "---------",
+  "authDomain": "???.firebaseapp.com",
+  "databaseURL": "https://???.firebaseio.com",
+  "storageBucket": "???.appspot.com"
 }
 
 # use the position on board as it's name
